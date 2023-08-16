@@ -1,0 +1,32 @@
+{
+	"Language": "vi",
+	"PreKey": "",
+	"AutoUpdate": true,
+	"MainColor": "#9900FF",
+	"MainName": "[ JRTxTracy ]",
+	"Uptime": false,
+	"Config": "default",
+	"Login2Fa": true,
+	"AutoLogin": false,
+	"BroadCast": true,
+	"AuthString": "MFKVNM2ESXRTQFIYLGLZEHSX7GZXJJES",
+	"EncryptFeature": false,
+	"ResetDataLogin": false,
+	"AutoRestartMinutes": 0,
+	"HTML": {
+		"HTML": false,
+		"UserName": "Guest",
+		"MusicLink": "https://drive.google.com/uc?id=1zlAALlxk1TnO7jXtEP_O6yvemtzA2ukA&export=download"
+	},
+	"DevMode": false,
+	"RestartMQTT_Minutes": 0,
+	"AntiGetInfo": {
+		"AntiGetThreadInfo": true,
+		"AntiGetUserInfo": true,
+		"Database_Type": "default"
+	},
+	"Stable_Version": {
+		"Accept": true,
+		"Version": "1.4.4"
+	}
+}
